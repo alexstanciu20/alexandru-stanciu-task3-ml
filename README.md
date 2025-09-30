@@ -4,13 +4,13 @@ Acest proiect antreneaza si testeaza un model de clasificare a produselor pe baz
 
 ## Structura proiectului
 
--project/
- -data/ IMLP4_TASK_03-products.csv # Dataset-ul initial
- -train_model.py # Script pentru antrenarea si salvarea modelului
- -predict_category.py # Script pentru prezicerea categoriei unui titlu
- -final_product_classifier.pkl # Modelul salvat (generat de train_model.py)
- -product_classification_analysis.ipynb # Analiza ipynb
- -README.md # Documentatia proiectului
+## Fisiere:
+- data/ IMLP4_TASK_03-products.csv # Dataset-ul initial
+- train_model.py # Script pentru antrenarea si salvarea modelului
+- predict_category.py # Script pentru prezicerea categoriei unui titlu
+- final_product_classifier.pkl # Modelul salvat (generat de train_model.py)
+- product_classification_analysis.ipynb # Analiza ipynb
+- README.md # Documentatia proiectului
 
 ## Cerinte
 
