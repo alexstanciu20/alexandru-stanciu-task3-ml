@@ -13,7 +13,7 @@ project/
 ├─ predict_category.py # Script pentru prezicerea categoriei unui titlu
 ├─ final_product_classifier.pkl # Modelul salvat (generat de Train_model.py)
 └─ README.md # Documentatia proiectului
----
+
 ## Cerinte
 
 - Python 3.8+
